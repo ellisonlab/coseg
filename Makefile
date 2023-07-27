@@ -2,7 +2,7 @@
 ## Makefile for coseg project
 ##
 VERSION=dev
-INSTALLDIR=/usr/local/coseg-${VERSION}
+INSTALLDIR=/usr/local/bin
 
 ## Basic
 CC = cc -g -O4 -lm
