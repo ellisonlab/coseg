@@ -134,7 +134,7 @@ use strict;
 use FindBin;
 use lib $FindBin::RealBin;
 ## NOTE: This must be set to point to your local RepeatMasker directory.
-use lib "/usr/local/RepeatMasker";
+use lib "/usr/local/share/RepeatMasker";
 use Getopt::Long;
 use CrossmatchSearchEngine;
 use WUBlastSearchEngine;
