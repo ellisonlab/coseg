@@ -111,7 +111,7 @@ $Version = $CVSIdTag if ( $Version eq "" );
 #  ie. my $PI = 3.14159;
 #   
 my $DEBUG = 0;
-my $RepeatModelerDir = "/usr/local/RepeatModeler";
+my $RepeatModelerDir = "/usr/local/share/RepeatModeler";
 
 #
 # Option processing
